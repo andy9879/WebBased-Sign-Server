@@ -1,0 +1,10 @@
+update,5;
+clear;
+backgroundColor,1,0,1;
+space,2;
+addChar,u,10,0,0;
+addSpecial,s,10,0,0;
+addChar,g,10,0,0;
+addSpecial,!,10,0,0;
+space,40;
+show;
